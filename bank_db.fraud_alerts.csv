@@ -1,0 +1,402 @@
+_id,alert_id,customer_id,transaction_id,timestamp,amount,atm_location,reasons[0]
+68c57fa4742c4f67eb6d32fb,alert_txn_335048,cust_1000,txn_335048,2025-09-12T22:51:24.522Z,25670.67,Delhi,High amount (₹25670.67)
+68c57fa4742c4f67eb6d32fd,alert_txn_781436,cust_1005,txn_781436,2025-09-09T20:55:55.577Z,5476.87,Bangalore,Multiple transactions in short interval
+68c57fa5742c4f67eb6d32ff,alert_txn_988392,cust_1012,txn_988392,2025-09-13T03:17:19.629Z,3206.03,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fa5742c4f67eb6d3302,alert_txn_380455,cust_1019,txn_380455,2025-09-12T02:47:20.684Z,23413,Delhi,High amount (₹23413)
+68c57fa6742c4f67eb6d3306,alert_txn_937806,cust_1010,txn_937806,2025-09-13T10:05:45.793Z,16136.5,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c57fa6742c4f67eb6d3309,alert_txn_194332,cust_1004,txn_194332,2025-09-10T01:36:54.902Z,1808.57,Mumbai,Multiple transactions in short interval
+68c57fa6742c4f67eb6d330c,alert_txn_406653,cust_1018,txn_406653,2025-09-09T12:19:16.956Z,24303,Delhi,High amount (₹24303)
+68c57fa7742c4f67eb6d3311,alert_txn_128123,cust_1005,txn_128123,2025-09-10T11:03:19.121Z,7961.8,Delhi,Multiple transactions in short interval
+68c57fa7742c4f67eb6d3314,alert_txn_828582,cust_1014,txn_828582,2025-09-09T20:27:23.232Z,2494.18,Mumbai,Multiple transactions in short interval
+68c57fa7742c4f67eb6d331b,alert_txn_528955,cust_1000,txn_528955,2025-09-10T05:04:26.446Z,15501.89,Bangalore,Multiple transactions in short interval
+68c57fa7742c4f67eb6d331e,alert_txn_317587,cust_1005,txn_317587,2025-09-10T16:10:52.559Z,5522.52,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c57fa7742c4f67eb6d3320,alert_txn_424189,cust_1018,txn_424189,2025-09-13T01:08:37.613Z,24425,Bangalore,High amount (₹24425)
+68c57fa7742c4f67eb6d3323,alert_txn_216764,cust_1011,txn_216764,2025-09-09T01:17:29.668Z,26688.71,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c57fa8742c4f67eb6d3327,alert_txn_134059,cust_1008,txn_134059,2025-09-09T00:45:28.835Z,22164,Kolkata,High amount (₹22164)
+68c57fa9742c4f67eb6d332a,alert_txn_589091,cust_1015,txn_589091,2025-09-11T02:59:58.891Z,13247.1,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c57fa9742c4f67eb6d332c,alert_txn_413168,cust_1008,txn_413168,2025-09-12T08:37:03.946Z,5226.72,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c57fa9742c4f67eb6d332e,alert_txn_256102,cust_1013,txn_256102,2025-09-12T10:12:44.998Z,4702.22,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fa9742c4f67eb6d3331,alert_txn_331216,cust_1001,txn_331216,2025-09-12T00:55:09.055Z,22049,Delhi,High amount (₹22049)
+68c57faa742c4f67eb6d3334,alert_txn_227528,cust_1020,txn_227528,2025-09-10T22:58:10.164Z,6743.11,Delhi,Multiple transactions in short interval
+68c57faa742c4f67eb6d3336,alert_txn_624919,cust_1020,txn_624919,2025-09-10T22:58:40.164Z,28906.81,Bangalore,High amount (₹28906.81)
+68c57faa742c4f67eb6d3338,alert_txn_692475,cust_1001,txn_692475,2025-09-08T18:39:42.222Z,845.44,Delhi,Multiple transactions in short interval
+68c57faa742c4f67eb6d333c,alert_txn_141496,cust_1000,txn_141496,2025-09-09T05:41:39.277Z,16815.61,Bangalore,Multiple transactions in short interval
+68c57faa742c4f67eb6d333e,alert_txn_650047,cust_1008,txn_650047,2025-09-12T20:06:44.331Z,23800,Delhi,High amount (₹23800)
+68c57faa742c4f67eb6d3342,alert_txn_438445,cust_1010,txn_438445,2025-09-11T05:38:32.440Z,21813,Chennai,High amount (₹21813)
+68c57faa742c4f67eb6d3344,alert_txn_339893,cust_1002,txn_339893,2025-09-11T13:40:05.493Z,595.83,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57faa742c4f67eb6d3348,alert_txn_275360,cust_1017,txn_275360,2025-09-10T20:24:17.656Z,2593.6,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c57faa742c4f67eb6d334b,alert_txn_202719,cust_1018,txn_202719,2025-09-10T14:49:30.711Z,2410.52,Kolkata,Multiple transactions in short interval
+68c57fab742c4f67eb6d334d,alert_txn_401100,cust_1018,txn_401100,2025-09-10T14:50:00.711Z,24862,Mumbai,High amount (₹24862)
+68c57fab742c4f67eb6d334f,alert_txn_492938,cust_1018,txn_492938,2025-09-12T04:26:31.764Z,21459,Bangalore,High amount (₹21459)
+68c57fab742c4f67eb6d3351,alert_txn_983057,cust_1016,txn_983057,2025-09-12T15:04:18.818Z,20795,Kolkata,High amount (₹20795)
+68c57fab742c4f67eb6d3356,alert_txn_179043,cust_1009,txn_179043,2025-09-12T09:20:46.988Z,2714.98,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fab742c4f67eb6d3358,alert_txn_814558,cust_1009,txn_814558,2025-09-12T09:21:16.988Z,7058.38,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fab742c4f67eb6d335c,alert_txn_811053,cust_1017,txn_811053,2025-09-10T09:24:48.096Z,2216.26,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c57fab742c4f67eb6d335f,alert_txn_217480,cust_1008,txn_217480,2025-09-13T01:10:11.201Z,23439,Kolkata,High amount (₹23439)
+68c57fab742c4f67eb6d3364,alert_txn_953175,cust_1011,txn_953175,2025-09-10T12:37:35.371Z,21336,Bangalore,High amount (₹21336)
+68c57fac742c4f67eb6d3367,alert_txn_823551,cust_1016,txn_823551,2025-09-12T20:40:43.427Z,18876.06,Mumbai,Multiple transactions in short interval
+68c57fac742c4f67eb6d3369,alert_txn_949965,cust_1008,txn_949965,2025-09-13T09:20:00.485Z,2714.72,Mumbai,Multiple transactions in short interval
+68c57fac742c4f67eb6d336d,alert_txn_639541,cust_1002,txn_639541,2025-09-09T02:52:54.593Z,23337,Mumbai,High amount (₹23337)
+68c57fac742c4f67eb6d336f,alert_txn_260866,cust_1000,txn_260866,2025-09-08T17:44:44.646Z,3142.16,Mumbai,Multiple transactions in short interval
+68c57fac742c4f67eb6d3376,alert_txn_315110,cust_1013,txn_315110,2025-09-09T21:17:17.922Z,23092.06,Bangalore,Multiple transactions in short interval
+68c57fac742c4f67eb6d3378,alert_txn_404453,cust_1005,txn_404453,2025-09-13T04:44:44.979Z,7576.04,Chennai,Multiple transactions in short interval
+68c57fad742c4f67eb6d337d,alert_txn_195885,cust_1002,txn_195885,2025-09-09T04:04:04.196Z,6440.58,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c57fae742c4f67eb6d3381,alert_txn_310128,cust_1006,txn_310128,2025-09-12T18:54:22.309Z,8189.27,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c57fae742c4f67eb6d3383,alert_txn_602945,cust_1006,txn_602945,2025-09-12T18:54:52.309Z,21236.62,Kolkata,High amount (₹21236.62)
+68c57fae742c4f67eb6d338d,alert_txn_144996,cust_1002,txn_144996,2025-09-13T08:42:43.647Z,2466.39,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c57fae742c4f67eb6d3394,alert_txn_123993,cust_1012,txn_123993,2025-09-11T23:42:16.921Z,22925,Mumbai,High amount (₹22925)
+68c57fae742c4f67eb6d3396,alert_txn_825916,cust_1019,txn_825916,2025-09-10T00:12:48.976Z,4971.37,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57faf742c4f67eb6d339a,alert_txn_884509,cust_1009,txn_884509,2025-09-10T06:51:04.078Z,2444.22,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c57faf742c4f67eb6d339f,alert_txn_848113,cust_1008,txn_848113,2025-09-10T06:17:11.296Z,9227.59,Kolkata,Multiple transactions in short interval
+68c57faf742c4f67eb6d33a1,alert_txn_586801,cust_1010,txn_586801,2025-09-10T04:08:28.351Z,4467.25,Delhi,Multiple transactions in short interval
+68c57faf742c4f67eb6d33a5,alert_txn_357317,cust_1003,txn_357317,2025-09-08T17:43:56.459Z,8723.43,Chennai,Multiple transactions in short interval
+68c57faf742c4f67eb6d33a7,alert_txn_562545,cust_1016,txn_562545,2025-09-10T23:46:07.513Z,20339,Mumbai,High amount (₹20339)
+68c57faf742c4f67eb6d33ab,alert_txn_531354,cust_1012,txn_531354,2025-09-13T06:18:41.621Z,24867,Chennai,High amount (₹24867)
+68c57fb0742c4f67eb6d33b2,alert_txn_340190,cust_1008,txn_340190,2025-09-09T18:51:42.893Z,21764,Chennai,High amount (₹21764)
+68c57fb0742c4f67eb6d33b5,alert_txn_123006,cust_1020,txn_123006,2025-09-08T17:52:51.001Z,3056.86,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c57fb0742c4f67eb6d33b9,alert_txn_787932,cust_1008,txn_787932,2025-09-09T02:12:47.109Z,7576.22,Kolkata,Multiple transactions in short interval
+68c57fb0742c4f67eb6d33bb,alert_txn_106407,cust_1008,txn_106407,2025-09-09T02:13:17.109Z,24599.96,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fb0742c4f67eb6d33bf,alert_txn_870532,cust_1019,txn_870532,2025-09-09T13:14:38.217Z,22864,Kolkata,High amount (₹22864)
+68c57fb0742c4f67eb6d33c2,alert_txn_549047,cust_1006,txn_549047,2025-09-13T06:36:30.326Z,22688,Kolkata,High amount (₹22688)
+68c57fb0742c4f67eb6d33c5,alert_txn_271244,cust_1011,txn_271244,2025-09-10T07:02:02.434Z,3833.06,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c57fb0742c4f67eb6d33c8,alert_txn_593986,cust_1010,txn_593986,2025-09-13T13:50:32.544Z,24826,Chennai,High amount (₹24826)
+68c57fb1742c4f67eb6d33ca,alert_txn_851236,cust_1010,txn_851236,2025-09-13T13:51:02.544Z,23510.52,Kolkata,High amount (₹23510.52)
+68c57fb1742c4f67eb6d33cc,alert_txn_854623,cust_1004,txn_854623,2025-09-10T03:46:50.602Z,20982,Delhi,High amount (₹20982)
+68c57fb1742c4f67eb6d33ce,alert_txn_387631,cust_1004,txn_387631,2025-09-10T03:47:20.602Z,24308,Bangalore,High amount (₹24308)
+68c57fb1742c4f67eb6d33d1,alert_txn_597655,cust_1009,txn_597655,2025-09-13T09:42:07.659Z,9860.08,Bangalore,Multiple transactions in short interval
+68c57fb1742c4f67eb6d33d5,alert_txn_391702,cust_1018,txn_391702,2025-09-10T19:08:35.817Z,1800.09,Bangalore,Multiple transactions in short interval
+68c57fb1742c4f67eb6d33d7,alert_txn_598720,cust_1018,txn_598720,2025-09-10T19:09:05.817Z,12888.55,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c57fb1742c4f67eb6d33da,alert_txn_400720,cust_1015,txn_400720,2025-09-09T23:03:58.871Z,24904.32,Kolkata,High amount (₹24904.32)
+68c57fb1742c4f67eb6d33dd,alert_txn_210751,cust_1014,txn_210751,2025-09-10T11:28:50.926Z,24171,Kolkata,High amount (₹24171)
+68c57fb2742c4f67eb6d33e1,alert_txn_927943,cust_1014,txn_927943,2025-09-13T08:17:50.094Z,2040.62,Kolkata,Multiple transactions in short interval
+68c57fb2742c4f67eb6d33ea,alert_txn_210801,cust_1016,txn_210801,2025-09-13T12:33:51.462Z,7869.5,Chennai,Multiple transactions in short interval
+68c57fb2742c4f67eb6d33ec,alert_txn_762160,cust_1005,txn_762160,2025-09-09T18:27:15.518Z,24448,Bangalore,High amount (₹24448)
+68c57fb2742c4f67eb6d33ee,alert_txn_705439,cust_1005,txn_705439,2025-09-09T18:27:45.518Z,24181,Kolkata,High amount (₹24181)
+68c57fb2742c4f67eb6d33f3,alert_txn_378098,cust_1004,txn_378098,2025-09-09T09:23:15.735Z,7552.6,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c57fb2742c4f67eb6d33f5,alert_txn_508956,cust_1020,txn_508956,2025-09-11T11:49:27.788Z,9303.12,Chennai,Multiple transactions in short interval
+68c57fb3742c4f67eb6d33fb,alert_txn_204239,cust_1020,txn_204239,2025-09-11T08:15:31.958Z,4690.7,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fb3742c4f67eb6d3401,alert_txn_143913,cust_1016,txn_143913,2025-09-11T00:41:38.126Z,21014,Kolkata,High amount (₹21014)
+68c57fb3742c4f67eb6d3404,alert_txn_380566,cust_1008,txn_380566,2025-09-11T04:45:45.234Z,5551.09,Mumbai,Multiple transactions in short interval
+68c57fb3742c4f67eb6d3406,alert_txn_965099,cust_1008,txn_965099,2025-09-11T04:46:15.234Z,7024.94,Mumbai,Multiple transactions in short interval
+68c57fb3742c4f67eb6d3408,alert_txn_444073,cust_1005,txn_444073,2025-09-10T19:56:20.289Z,22417,Bangalore,High amount (₹22417)
+68c57fb3742c4f67eb6d340b,alert_txn_565185,cust_1012,txn_565185,2025-09-11T04:10:50.399Z,5090.17,Chennai,Multiple transactions in short interval
+68c57fb3742c4f67eb6d3410,alert_txn_502646,cust_1000,txn_502646,2025-09-10T23:05:41.563Z,21512,Kolkata,High amount (₹21512)
+68c57fb4742c4f67eb6d3413,alert_txn_290120,cust_1012,txn_290120,2025-09-12T09:23:02.672Z,3575.54,Kolkata,Multiple transactions in short interval
+68c57fb4742c4f67eb6d341d,alert_txn_639240,cust_1010,txn_639240,2025-09-10T14:41:28.101Z,20240,Kolkata,High amount (₹20240)
+68c57fb4742c4f67eb6d3421,alert_txn_177020,cust_1016,txn_177020,2025-09-09T18:58:57.266Z,23616,Chennai,High amount (₹23616)
+68c57fb4742c4f67eb6d3424,alert_txn_937989,cust_1001,txn_937989,2025-09-13T00:41:07.321Z,22299.25,Kolkata,High amount (₹22299.25)
+68c57fb5742c4f67eb6d342d,alert_txn_681808,cust_1012,txn_681808,2025-09-09T09:08:10.644Z,20056,Chennai,High amount (₹20056)
+68c57fb5742c4f67eb6d3430,alert_txn_171449,cust_1001,txn_171449,2025-09-10T10:12:38.703Z,22284,Delhi,High amount (₹22284)
+68c57fb5742c4f67eb6d3434,alert_txn_108061,cust_1003,txn_108061,2025-09-09T12:47:04.812Z,22377,Chennai,High amount (₹22377)
+68c57fb5742c4f67eb6d3436,alert_txn_734551,cust_1003,txn_734551,2025-09-09T12:47:34.812Z,9076.4,Chennai,Multiple transactions in short interval
+68c57fb5742c4f67eb6d3438,alert_txn_772399,cust_1018,txn_772399,2025-09-12T14:05:08.868Z,8403.61,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fb5742c4f67eb6d343b,alert_txn_332359,cust_1013,txn_332359,2025-09-12T15:51:04.976Z,8675.99,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c57fb6742c4f67eb6d3444,alert_txn_224055,cust_1010,txn_224055,2025-09-12T13:02:06.346Z,8534.39,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c57fb6742c4f67eb6d3446,alert_txn_324675,cust_1010,txn_324675,2025-09-12T13:02:36.346Z,21697,Delhi,High amount (₹21697)
+68c57fb7742c4f67eb6d3448,alert_txn_829431,cust_1010,txn_829431,2025-09-10T10:07:00.401Z,8807.92,Kolkata,Multiple transactions in short interval
+68c57fb7742c4f67eb6d344c,alert_txn_785498,cust_1018,txn_785498,2025-09-12T22:53:46.562Z,7860.47,Mumbai,Multiple transactions in short interval
+68c57fb7742c4f67eb6d344f,alert_txn_552559,cust_1006,txn_552559,2025-09-13T09:15:43.618Z,20931,Delhi,High amount (₹20931)
+68c57fb7742c4f67eb6d3451,alert_txn_445432,cust_1000,txn_445432,2025-09-13T03:49:16.674Z,2705.98,Delhi,Multiple transactions in short interval
+68c57fb7742c4f67eb6d3454,alert_txn_627483,cust_1013,txn_627483,2025-09-11T08:05:40.784Z,6035.57,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c57fb7742c4f67eb6d3456,alert_txn_133451,cust_1013,txn_133451,2025-09-11T08:06:10.784Z,2543.26,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c57fb7742c4f67eb6d345a,alert_txn_894617,cust_1007,txn_894617,2025-09-11T07:40:30.893Z,27694.11,Bangalore,High amount (₹27694.11)
+68c57fb7742c4f67eb6d345d,alert_txn_579151,cust_1007,txn_579151,2025-09-09T08:33:50.006Z,20363,Kolkata,High amount (₹20363)
+68c57fb7742c4f67eb6d345f,alert_txn_972760,cust_1019,txn_972760,2025-09-11T05:00:36.062Z,21884,Kolkata,High amount (₹21884)
+68c57fb8742c4f67eb6d3461,alert_txn_299978,cust_1019,txn_299978,2025-09-11T05:01:06.062Z,20628,Mumbai,High amount (₹20628)
+68c57fb8742c4f67eb6d3464,alert_txn_285539,cust_1008,txn_285539,2025-09-10T06:33:38.174Z,22083,Chennai,High amount (₹22083)
+68c57fb8742c4f67eb6d3467,alert_txn_863517,cust_1001,txn_863517,2025-09-09T08:33:32.285Z,4423.64,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fb8742c4f67eb6d3469,alert_txn_134322,cust_1001,txn_134322,2025-09-09T08:34:02.285Z,18243.86,Kolkata,Multiple transactions in short interval
+68c57fb8742c4f67eb6d346b,alert_txn_528775,cust_1009,txn_528775,2025-09-10T13:20:08.341Z,7898.29,Mumbai,Multiple transactions in short interval
+68c57fb8742c4f67eb6d346f,alert_txn_375805,cust_1005,txn_375805,2025-09-11T18:07:59.503Z,918.1,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c57fb8742c4f67eb6d3472,alert_txn_107104,cust_1006,txn_107104,2025-09-10T04:14:12.612Z,21992,Bangalore,High amount (₹21992)
+68c57fb8742c4f67eb6d3475,alert_txn_100385,cust_1001,txn_100385,2025-09-09T02:30:48.663Z,24632.42,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c57fb8742c4f67eb6d3479,alert_txn_866915,cust_1016,txn_866915,2025-09-09T22:48:36.826Z,7403.85,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c57fb9742c4f67eb6d347d,alert_txn_393906,cust_1001,txn_393906,2025-09-10T20:49:05.934Z,17468.43,Delhi,Multiple transactions in short interval
+68c57fb9742c4f67eb6d3480,alert_txn_260488,cust_1012,txn_260488,2025-09-12T07:27:23.987Z,17657.27,Kolkata,Multiple transactions in short interval
+68c57fb9742c4f67eb6d3482,alert_txn_238472,cust_1012,txn_238472,2025-09-10T10:47:33.043Z,2185.1,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fb9742c4f67eb6d3486,alert_txn_264775,cust_1015,txn_264775,2025-09-10T20:40:41.101Z,29609.48,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fb9742c4f67eb6d348d,alert_txn_786385,cust_1017,txn_786385,2025-09-11T17:50:34.319Z,6751.48,Delhi,Multiple transactions in short interval
+68c57fba742c4f67eb6d3491,alert_txn_844023,cust_1001,txn_844023,2025-09-10T20:04:32.477Z,8117.46,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fba742c4f67eb6d3495,alert_txn_390359,cust_1000,txn_390359,2025-09-09T21:04:08.638Z,2379.9,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c57fba742c4f67eb6d3499,alert_txn_716338,cust_1013,txn_716338,2025-09-10T23:57:15.751Z,5035.34,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c57fba742c4f67eb6d349b,alert_txn_764596,cust_1013,txn_764596,2025-09-10T23:57:45.751Z,8847.33,Delhi,Multiple transactions in short interval
+68c57fba742c4f67eb6d34a1,alert_txn_109996,cust_1002,txn_109996,2025-09-12T01:58:40.921Z,2850.01,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c57fba742c4f67eb6d34a4,alert_txn_866135,cust_1000,txn_866135,2025-09-12T02:42:02.976Z,2258.86,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fba742c4f67eb6d34a6,alert_txn_208451,cust_1018,txn_208451,2025-09-11T19:49:18.028Z,716.97,Mumbai,Multiple transactions in short interval
+68c57fbb742c4f67eb6d34a9,alert_txn_872979,cust_1009,txn_872979,2025-09-10T08:54:04.084Z,22794,Delhi,High amount (₹22794)
+68c57fbb742c4f67eb6d34ab,alert_txn_534061,cust_1000,txn_534061,2025-09-10T16:18:53.135Z,8200.96,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c57fbb742c4f67eb6d34ad,alert_txn_413769,cust_1000,txn_413769,2025-09-10T16:19:23.135Z,28724.17,Bangalore,High amount (₹28724.17)
+68c57fbb742c4f67eb6d34af,alert_txn_576070,cust_1010,txn_576070,2025-09-10T23:04:06.193Z,24075,Delhi,High amount (₹24075)
+68c57fbb742c4f67eb6d34b2,alert_txn_412650,cust_1010,txn_412650,2025-09-09T06:09:37.301Z,21500,Mumbai,High amount (₹21500)
+68c57fbb742c4f67eb6d34b6,alert_txn_787084,cust_1016,txn_787084,2025-09-13T13:53:16.411Z,24434,Mumbai,High amount (₹24434)
+68c57fbb742c4f67eb6d34ba,alert_txn_692924,cust_1020,txn_692924,2025-09-12T03:22:16.521Z,22505,Delhi,High amount (₹22505)
+68c57fbb742c4f67eb6d34c0,alert_txn_444562,cust_1009,txn_444562,2025-09-08T17:31:27.735Z,21062,Kolkata,High amount (₹21062)
+68c57fbb742c4f67eb6d34c2,alert_txn_118505,cust_1009,txn_118505,2025-09-08T17:31:57.735Z,29439.96,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fbc742c4f67eb6d34c4,alert_txn_274498,cust_1008,txn_274498,2025-09-10T13:39:20.791Z,20970,Bangalore,High amount (₹20970)
+68c57fbc742c4f67eb6d34c7,alert_txn_719102,cust_1006,txn_719102,2025-09-10T07:05:46.846Z,24492,Bangalore,High amount (₹24492)
+68c57fbc742c4f67eb6d34cb,alert_txn_973278,cust_1016,txn_973278,2025-09-11T12:41:50.958Z,22606,Chennai,High amount (₹22606)
+68c57fbc742c4f67eb6d34cd,alert_txn_102389,cust_1007,txn_102389,2025-09-12T03:01:17.018Z,2328.15,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c57fbc742c4f67eb6d34d1,alert_txn_466362,cust_1017,txn_466362,2025-09-08T15:45:31.127Z,22382,Chennai,High amount (₹22382)
+68c57fbc742c4f67eb6d34d3,alert_txn_699173,cust_1007,txn_699173,2025-09-08T23:20:53.183Z,501.42,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c57fbc742c4f67eb6d34d6,alert_txn_711553,cust_1017,txn_711553,2025-09-13T08:50:33.286Z,7798.65,Mumbai,Multiple transactions in short interval
+68c57fbc742c4f67eb6d34d9,alert_txn_238365,cust_1012,txn_238365,2025-09-13T10:50:23.338Z,4398.83,Chennai,Multiple transactions in short interval
+68c57fbd742c4f67eb6d34dc,alert_txn_701596,cust_1010,txn_701596,2025-09-08T19:48:43.444Z,22493,Delhi,High amount (₹22493)
+68c57fbd742c4f67eb6d34df,alert_txn_752211,cust_1003,txn_752211,2025-09-09T23:18:49.495Z,10720.8,Bangalore,Multiple transactions in short interval
+68c57fbd742c4f67eb6d34e4,alert_txn_305949,cust_1008,txn_305949,2025-09-11T11:12:57.660Z,4870.43,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c57fbd742c4f67eb6d34e8,alert_txn_751937,cust_1002,txn_751937,2025-09-09T13:16:38.716Z,20042.66,Bangalore,High amount (₹20042.66)
+68c57fbd742c4f67eb6d34ee,alert_txn_221469,cust_1020,txn_221469,2025-09-10T17:48:22.992Z,21280,Delhi,High amount (₹21280)
+68c57fbd742c4f67eb6d34f0,alert_txn_203358,cust_1020,txn_203358,2025-09-10T17:48:52.992Z,12778.58,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c57fbe742c4f67eb6d34f5,alert_txn_756148,cust_1006,txn_756148,2025-09-12T03:41:45.203Z,2661.72,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c57fbe742c4f67eb6d34f8,alert_txn_485603,cust_1017,txn_485603,2025-09-08T18:34:06.312Z,6873.22,Mumbai,Multiple transactions in short interval
+68c57fbe742c4f67eb6d34fc,alert_txn_228879,cust_1019,txn_228879,2025-09-09T18:44:56.421Z,25124.23,Mumbai,High amount (₹25124.23)
+68c57fbe742c4f67eb6d34ff,alert_txn_534667,cust_1010,txn_534667,2025-09-10T11:07:11.529Z,5599.35,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c57fbe742c4f67eb6d3502,alert_txn_881796,cust_1001,txn_881796,2025-09-09T11:00:41.584Z,24316,Delhi,High amount (₹24316)
+68c57fbe742c4f67eb6d3504,alert_txn_447811,cust_1010,txn_447811,2025-09-09T07:35:50.638Z,3531.59,Mumbai,Multiple transactions in short interval
+68c57fbf742c4f67eb6d350c,alert_txn_566698,cust_1016,txn_566698,2025-09-12T01:06:52.913Z,5136.45,Bangalore,Multiple transactions in short interval
+68c57fbf742c4f67eb6d350e,alert_txn_964705,cust_1016,txn_964705,2025-09-12T01:07:22.913Z,3096.22,Delhi,Multiple transactions in short interval
+68c57fbf742c4f67eb6d3511,alert_txn_138190,cust_1005,txn_138190,2025-09-12T02:14:34.971Z,29502.39,Mumbai,Multiple transactions in short interval
+68c57fbf742c4f67eb6d3514,alert_txn_506857,cust_1008,txn_506857,2025-09-13T00:06:10.079Z,24113,Delhi,High amount (₹24113)
+68c57fbf742c4f67eb6d3517,alert_txn_316517,cust_1004,txn_316517,2025-09-12T14:09:28.186Z,1573.32,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c57fbf742c4f67eb6d3519,alert_txn_402014,cust_1004,txn_402014,2025-09-12T14:09:58.186Z,23013,Kolkata,High amount (₹23013)
+68c57fbf742c4f67eb6d351b,alert_txn_475916,cust_1007,txn_475916,2025-09-13T05:28:15.244Z,22597,Kolkata,High amount (₹22597)
+68c57fbf742c4f67eb6d351d,alert_txn_115736,cust_1004,txn_115736,2025-09-11T12:48:42.299Z,7565.9,Mumbai,Multiple transactions in short interval
+68c57fbf742c4f67eb6d3521,alert_txn_799489,cust_1011,txn_799489,2025-09-13T04:43:59.409Z,23245,Delhi,High amount (₹23245)
+68c57fbf742c4f67eb6d3523,alert_txn_682427,cust_1000,txn_682427,2025-09-11T11:33:09.462Z,21559,Mumbai,High amount (₹21559)
+68c57fc0742c4f67eb6d3525,alert_txn_496058,cust_1002,txn_496058,2025-09-12T05:20:20.517Z,23785,Mumbai,High amount (₹23785)
+68c57fc0742c4f67eb6d352a,alert_txn_200839,cust_1005,txn_200839,2025-09-09T06:51:39.623Z,8550.57,Mumbai,Multiple transactions in short interval
+68c57fc0742c4f67eb6d3531,alert_txn_300536,cust_1006,txn_300536,2025-09-10T16:40:26.842Z,25487.23,Mumbai,Multiple transactions in short interval
+68c57fc0742c4f67eb6d3534,alert_txn_140476,cust_1004,txn_140476,2025-09-09T00:43:58.953Z,2171.89,Bangalore,Multiple transactions in short interval
+68c57fc0742c4f67eb6d3537,alert_txn_662122,cust_1006,txn_662122,2025-09-09T15:29:34.009Z,23727,Delhi,High amount (₹23727)
+68c57fc0742c4f67eb6d353a,alert_txn_460348,cust_1013,txn_460348,2025-09-09T19:20:33.112Z,24780,Bangalore,High amount (₹24780)
+68c57fc0742c4f67eb6d353c,alert_txn_850775,cust_1013,txn_850775,2025-09-09T19:21:03.112Z,11462.95,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c57fc1742c4f67eb6d3543,alert_txn_781452,cust_1006,txn_781452,2025-09-09T13:55:57.334Z,24847.99,Delhi,Multiple transactions in short interval
+68c57fc1742c4f67eb6d3549,alert_txn_414069,cust_1012,txn_414069,2025-09-13T10:48:14.500Z,27587.19,Delhi,High amount (₹27587.19)
+68c57fc1742c4f67eb6d354e,alert_txn_137549,cust_1016,txn_137549,2025-09-09T14:27:11.662Z,5628.13,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c57fc1742c4f67eb6d3552,alert_txn_211266,cust_1003,txn_211266,2025-09-11T10:53:31.772Z,6589.79,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fc1742c4f67eb6d3554,alert_txn_837819,cust_1003,txn_837819,2025-09-11T10:54:01.772Z,28234.77,Mumbai,High amount (₹28234.77)
+68c57fc2742c4f67eb6d355a,alert_txn_114552,cust_1005,txn_114552,2025-09-11T01:34:54.934Z,23025,Bangalore,High amount (₹23025)
+68c57fc2742c4f67eb6d355c,alert_txn_402212,cust_1013,txn_402212,2025-09-10T14:54:41.991Z,7909.41,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fc2742c4f67eb6d355e,alert_txn_394387,cust_1008,txn_394387,2025-09-11T09:48:49.048Z,1537.7,Chennai,Multiple transactions in short interval
+68c57fc2742c4f67eb6d3560,alert_txn_179192,cust_1008,txn_179192,2025-09-11T09:49:19.048Z,29552.88,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c57fc2742c4f67eb6d3564,alert_txn_811959,cust_1003,txn_811959,2025-09-09T20:30:30.160Z,20578,Chennai,High amount (₹20578)
+68c57fc2742c4f67eb6d356a,alert_txn_120450,cust_1015,txn_120450,2025-09-10T19:44:28.377Z,8867.25,Chennai,Multiple transactions in short interval
+68c57fc2742c4f67eb6d356d,alert_txn_244951,cust_1007,txn_244951,2025-09-11T17:39:35.432Z,19773.16,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c57fc2742c4f67eb6d3570,alert_txn_297643,cust_1006,txn_297643,2025-09-13T14:06:37.542Z,20702,Bangalore,High amount (₹20702)
+68c57fc3742c4f67eb6d3573,alert_txn_988762,cust_1008,txn_988762,2025-09-11T15:46:55.651Z,5911.38,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c57fc3742c4f67eb6d3576,alert_txn_412505,cust_1005,txn_412505,2025-09-11T15:28:31.709Z,22416,Bangalore,High amount (₹22416)
+68c57fc3742c4f67eb6d357a,alert_txn_154936,cust_1007,txn_154936,2025-09-11T02:10:34.815Z,7051.72,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c57fc3742c4f67eb6d357f,alert_txn_447204,cust_1008,txn_447204,2025-09-13T07:01:52.981Z,7188.76,Delhi,Multiple transactions in short interval
+68c57fc3742c4f67eb6d3582,alert_txn_765971,cust_1014,txn_765971,2025-09-11T12:26:27.090Z,1848.89,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c57fc3742c4f67eb6d3584,alert_txn_595533,cust_1002,txn_595533,2025-09-11T00:47:13.145Z,6856.07,Mumbai,Multiple transactions in short interval
+68c57fc3742c4f67eb6d3587,alert_txn_883335,cust_1017,txn_883335,2025-09-13T00:13:04.252Z,21964,Bangalore,High amount (₹21964)
+68c57fc4742c4f67eb6d358e,alert_txn_900151,cust_1017,txn_900151,2025-09-11T03:30:09.526Z,710.65,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fc4742c4f67eb6d3593,alert_txn_559982,cust_1001,txn_559982,2025-09-08T15:39:13.633Z,6418.04,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c57fc4742c4f67eb6d3596,alert_txn_270087,cust_1018,txn_270087,2025-09-08T16:10:14.687Z,7121.33,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c57fc4742c4f67eb6d359c,alert_txn_331694,cust_1002,txn_331694,2025-09-09T17:50:18.904Z,23862,Mumbai,High amount (₹23862)
+68c57fc4742c4f67eb6d35a0,alert_txn_106046,cust_1017,txn_106046,2025-09-10T02:42:11.067Z,4567.53,Kolkata,Multiple transactions in short interval
+68c57fc4742c4f67eb6d35a2,alert_txn_612183,cust_1002,txn_612183,2025-09-11T01:53:18.121Z,21341,Mumbai,High amount (₹21341)
+68c57fc5742c4f67eb6d35a5,alert_txn_830964,cust_1012,txn_830964,2025-09-12T18:00:56.229Z,7184.26,Chennai,Multiple transactions in short interval
+68c57fc5742c4f67eb6d35a8,alert_txn_882486,cust_1001,txn_882486,2025-09-13T01:35:19.284Z,23413,Delhi,High amount (₹23413)
+68c57fc5742c4f67eb6d35b0,alert_txn_471625,cust_1014,txn_471625,2025-09-11T06:50:38.559Z,9189.1,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fc5742c4f67eb6d35b3,alert_txn_111706,cust_1002,txn_111706,2025-09-12T05:09:44.616Z,22893,Mumbai,High amount (₹22893)
+68c57fc5742c4f67eb6d35b7,alert_txn_665382,cust_1010,txn_665382,2025-09-13T14:16:07.671Z,26877.25,Mumbai,High amount (₹26877.25)
+68c57fc6742c4f67eb6d35bd,alert_txn_387137,cust_1005,txn_387137,2025-09-11T09:46:23.892Z,8870.9,Mumbai,Multiple transactions in short interval
+68c57fc6742c4f67eb6d35c1,alert_txn_974847,cust_1008,txn_974847,2025-09-09T05:23:14.002Z,6007.26,Kolkata,Multiple transactions in short interval
+68c57fc6742c4f67eb6d35c3,alert_txn_332226,cust_1008,txn_332226,2025-09-09T05:23:44.002Z,29374.65,Kolkata,High amount (₹29374.65)
+68c57fc6742c4f67eb6d35c7,alert_txn_330335,cust_1002,txn_330335,2025-09-11T11:00:58.167Z,22876,Mumbai,High amount (₹22876)
+68c57fc6742c4f67eb6d35cf,alert_txn_495111,cust_1002,txn_495111,2025-09-09T00:58:03.439Z,26579.88,Bangalore,Multiple transactions in short interval
+68c57fc7742c4f67eb6d35d1,alert_txn_767229,cust_1004,txn_767229,2025-09-12T23:30:19.495Z,7215.86,Bangalore,Multiple transactions in short interval
+68c57fc7742c4f67eb6d35d5,alert_txn_961039,cust_1020,txn_961039,2025-09-08T15:51:07.658Z,4306.51,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c57fc7742c4f67eb6d35d7,alert_txn_218435,cust_1015,txn_218435,2025-09-09T21:30:44.715Z,20770,Delhi,High amount (₹20770)
+68c57fc7742c4f67eb6d35db,alert_txn_130753,cust_1007,txn_130753,2025-09-10T07:55:21.822Z,9472.26,Delhi,Multiple transactions in short interval
+68c57fc7742c4f67eb6d35dd,alert_txn_351945,cust_1007,txn_351945,2025-09-10T07:55:51.822Z,24172,Mumbai,High amount (₹24172)
+68c57fc7742c4f67eb6d35df,alert_txn_777062,cust_1010,txn_777062,2025-09-10T20:45:50.879Z,7681.19,Kolkata,Multiple transactions in short interval
+68c57fc7742c4f67eb6d35e2,alert_txn_380723,cust_1001,txn_380723,2025-09-10T19:43:04.988Z,7476.02,Delhi,Multiple transactions in short interval
+68c57fc7742c4f67eb6d35e6,alert_txn_299371,cust_1016,txn_299371,2025-09-12T21:49:54.096Z,21386.8,Chennai,Multiple transactions in short interval
+68c57fc8742c4f67eb6d35e9,alert_txn_595493,cust_1004,txn_595493,2025-09-10T14:31:23.208Z,8323.42,Bangalore,Multiple transactions in short interval
+68c57fc8742c4f67eb6d35f5,alert_txn_372617,cust_1003,txn_372617,2025-09-13T11:51:57.700Z,5284.9,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c57fc8742c4f67eb6d35f7,alert_txn_757112,cust_1016,txn_757112,2025-09-11T09:40:36.756Z,2893.74,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c57fc8742c4f67eb6d35f9,alert_txn_403145,cust_1017,txn_403145,2025-09-08T22:53:52.811Z,3699.58,Mumbai,Multiple transactions in short interval
+68c57fc8742c4f67eb6d35fc,alert_txn_769061,cust_1012,txn_769061,2025-09-12T13:50:38.868Z,2401.23,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c57fc9742c4f67eb6d3602,alert_txn_603005,cust_1002,txn_603005,2025-09-11T18:39:22.084Z,7267.04,Mumbai,Multiple transactions in short interval
+68c57fc9742c4f67eb6d3606,alert_txn_886387,cust_1016,txn_886387,2025-09-12T09:48:50.247Z,9198.31,Chennai,Multiple transactions in short interval
+68c57fc9742c4f67eb6d3608,alert_txn_537297,cust_1014,txn_537297,2025-09-08T16:58:54.299Z,8030.09,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c57fc9742c4f67eb6d360c,alert_txn_109554,cust_1011,txn_109554,2025-09-10T12:39:50.359Z,3565.2,Kolkata,Multiple transactions in short interval
+68c57fc9742c4f67eb6d360e,alert_txn_561753,cust_1017,txn_561753,2025-09-09T14:42:56.415Z,2669.76,Mumbai,Multiple transactions in short interval
+68c57fc9742c4f67eb6d3610,alert_txn_312456,cust_1001,txn_312456,2025-09-13T09:15:07.471Z,5915.11,Delhi,Multiple transactions in short interval
+68c57fc9742c4f67eb6d3612,alert_txn_354864,cust_1001,txn_354864,2025-09-13T09:15:37.471Z,26090.83,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c57fca742c4f67eb6d361a,alert_txn_267937,cust_1009,txn_267937,2025-09-11T19:55:46.693Z,4952.87,Kolkata,Multiple transactions in short interval
+68c57fca742c4f67eb6d3620,alert_txn_892030,cust_1012,txn_892030,2025-09-12T08:53:04.911Z,7553.34,Kolkata,Multiple transactions in short interval
+68c57fca742c4f67eb6d3625,alert_txn_456387,cust_1014,txn_456387,2025-09-11T05:22:43.129Z,7281.03,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fca742c4f67eb6d3627,alert_txn_906156,cust_1014,txn_906156,2025-09-11T05:23:13.129Z,10198.22,Kolkata,Multiple transactions in short interval
+68c57fca742c4f67eb6d3629,alert_txn_683135,cust_1011,txn_683135,2025-09-09T12:22:48.185Z,21704,Bangalore,High amount (₹21704)
+68c57fca742c4f67eb6d362b,alert_txn_242600,cust_1011,txn_242600,2025-09-09T12:23:18.185Z,21470,Chennai,High amount (₹21470)
+68c57fcb742c4f67eb6d362d,alert_txn_855779,cust_1004,txn_855779,2025-09-10T17:45:15.243Z,6020.27,Bangalore,Multiple transactions in short interval
+68c57fcb742c4f67eb6d362f,alert_txn_203400,cust_1017,txn_203400,2025-09-09T13:49:31.297Z,2579.42,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c57fcb742c4f67eb6d3631,alert_txn_145537,cust_1017,txn_145537,2025-09-09T13:50:01.297Z,6741.92,Mumbai,Multiple transactions in short interval
+68c57fcb742c4f67eb6d3634,alert_txn_747208,cust_1012,txn_747208,2025-09-12T18:28:24.351Z,826.78,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c57fcb742c4f67eb6d3636,alert_txn_964330,cust_1002,txn_964330,2025-09-11T16:32:03.409Z,22331,Mumbai,High amount (₹22331)
+68c57fcb742c4f67eb6d3638,alert_txn_672305,cust_1002,txn_672305,2025-09-11T16:32:33.409Z,18336.43,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c57fcb742c4f67eb6d363d,alert_txn_543344,cust_1009,txn_543344,2025-09-09T09:47:34.576Z,3095.33,Chennai,Multiple transactions in short interval
+68c57fcb742c4f67eb6d3640,alert_txn_727091,cust_1000,txn_727091,2025-09-08T19:51:16.687Z,22250,Mumbai,High amount (₹22250)
+68c57fcb742c4f67eb6d3643,alert_txn_834310,cust_1017,txn_834310,2025-09-08T14:32:30.739Z,5799.11,Bangalore,Multiple transactions in short interval
+68c57fcc742c4f67eb6d3645,alert_txn_377786,cust_1001,txn_377786,2025-09-13T13:18:37.794Z,8702.74,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c57fcc742c4f67eb6d3648,alert_txn_875656,cust_1010,txn_875656,2025-09-11T13:23:16.853Z,995.06,Mumbai,Multiple transactions in short interval
+68c57fcc742c4f67eb6d364c,alert_txn_923083,cust_1003,txn_923083,2025-09-12T20:59:49.015Z,21572,Chennai,High amount (₹21572)
+68c57fcc742c4f67eb6d3651,alert_txn_639386,cust_1012,txn_639386,2025-09-09T00:06:04.181Z,4912.49,Mumbai,Multiple transactions in short interval
+68c595cdd7ef0a1a1f03ccfd,alert_txn_689851,cust_1012,txn_689851,2025-09-11T04:48:15.826Z,3009.76,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c595cdd7ef0a1a1f03cd00,alert_txn_474746,cust_1018,txn_474746,2025-09-12T04:26:42.826Z,28870.25,Mumbai,High amount (₹28870.25)
+68c595ced7ef0a1a1f03cd02,alert_txn_397879,cust_1006,txn_397879,2025-09-09T23:53:11.826Z,7475.66,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c595ced7ef0a1a1f03cd05,alert_txn_552310,cust_1012,txn_552310,2025-09-11T04:23:22.826Z,7232.86,Kolkata,Multiple transactions in short interval
+68c595ced7ef0a1a1f03cd09,alert_txn_736434,cust_1011,txn_736434,2025-09-08T20:48:27.827Z,24537,Chennai,High amount (₹24537)
+68c595ced7ef0a1a1f03cd0b,alert_txn_788888,cust_1018,txn_788888,2025-09-11T05:23:02.827Z,21815,Delhi,High amount (₹21815)
+68c595ced7ef0a1a1f03cd0d,alert_txn_575539,cust_1017,txn_575539,2025-09-11T14:10:32.827Z,28828.88,Bangalore,Multiple transactions in short interval
+68c595d0d7ef0a1a1f03cd13,alert_txn_378391,cust_1005,txn_378391,2025-09-13T00:35:21.827Z,1527.78,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c595d2d7ef0a1a1f03cd15,alert_txn_430748,cust_1015,txn_430748,2025-09-11T08:10:36.827Z,1761.49,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c595d2d7ef0a1a1f03cd17,alert_txn_346795,cust_1009,txn_346795,2025-09-13T03:35:02.827Z,3907.22,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c595d3d7ef0a1a1f03cd1c,alert_txn_930272,cust_1016,txn_930272,2025-09-09T05:30:47.827Z,23791,Mumbai,High amount (₹23791)
+68c595d3d7ef0a1a1f03cd23,alert_txn_898215,cust_1019,txn_898215,2025-09-11T05:36:50.827Z,20364,Chennai,High amount (₹20364)
+68c595d3d7ef0a1a1f03cd25,alert_txn_785900,cust_1015,txn_785900,2025-09-09T14:24:27.827Z,2267.04,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c595d3d7ef0a1a1f03cd28,alert_txn_581533,cust_1010,txn_581533,2025-09-11T22:35:53.827Z,7413.34,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c595d3d7ef0a1a1f03cd2d,alert_txn_682808,cust_1013,txn_682808,2025-09-10T04:33:32.827Z,2099.27,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c595d3d7ef0a1a1f03cd2f,alert_txn_985520,cust_1008,txn_985520,2025-09-11T21:28:27.827Z,6374.5,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c595d4d7ef0a1a1f03cd35,alert_txn_829159,cust_1004,txn_829159,2025-09-12T10:13:45.827Z,8546.18,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c595d4d7ef0a1a1f03cd3c,alert_txn_318732,cust_1020,txn_318732,2025-09-13T13:30:03.828Z,4841.92,Mumbai,Multiple transactions in short interval
+68c595d4d7ef0a1a1f03cd40,alert_txn_183674,cust_1019,txn_183674,2025-09-09T03:09:16.828Z,24557,Delhi,High amount (₹24557)
+68c595d4d7ef0a1a1f03cd42,alert_txn_587800,cust_1000,txn_587800,2025-09-13T02:39:02.828Z,2406.23,Chennai,Multiple transactions in short interval
+68c595d4d7ef0a1a1f03cd45,alert_txn_959600,cust_1020,txn_959600,2025-09-11T08:02:55.828Z,25975.21,Chennai,High amount (₹25975.21)
+68c595d5d7ef0a1a1f03cd4b,alert_txn_142625,cust_1004,txn_142625,2025-09-09T09:16:24.828Z,24759.8,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c595d5d7ef0a1a1f03cd50,alert_txn_265460,cust_1005,txn_265460,2025-09-13T00:01:47.828Z,5153.56,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c595d5d7ef0a1a1f03cd52,alert_txn_787498,cust_1012,txn_787498,2025-09-09T03:40:05.828Z,2540.95,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c595d6d7ef0a1a1f03cd58,alert_txn_807868,cust_1002,txn_807868,2025-09-13T12:57:20.828Z,4359.25,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c595d6d7ef0a1a1f03cd5d,alert_txn_850191,cust_1015,txn_850191,2025-09-11T00:46:22.828Z,5277.33,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c595d6d7ef0a1a1f03cd5f,alert_txn_506400,cust_1006,txn_506400,2025-09-12T04:51:20.828Z,3161.65,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c595d6d7ef0a1a1f03cd64,alert_txn_899828,cust_1006,txn_899828,2025-09-12T10:42:26.828Z,7672.04,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c595d7d7ef0a1a1f03cd6b,alert_txn_967692,cust_1010,txn_967692,2025-09-13T07:02:58.829Z,23269,Bangalore,High amount (₹23269)
+68c595d7d7ef0a1a1f03cd6f,alert_txn_419296,cust_1004,txn_419296,2025-09-09T23:34:03.829Z,23433,Chennai,High amount (₹23433)
+68c595d7d7ef0a1a1f03cd71,alert_txn_814955,cust_1000,txn_814955,2025-09-11T20:04:21.829Z,8697.32,Kolkata,Multiple transactions in short interval
+68c595d7d7ef0a1a1f03cd74,alert_txn_481272,cust_1010,txn_481272,2025-09-12T20:06:03.829Z,5883.35,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c595d7d7ef0a1a1f03cd77,alert_txn_906259,cust_1015,txn_906259,2025-09-10T09:27:57.829Z,21421.01,Kolkata,High amount (₹21421.01)
+68c595d7d7ef0a1a1f03cd7c,alert_txn_319210,cust_1020,txn_319210,2025-09-09T21:34:43.829Z,8080.01,Chennai,Multiple transactions in short interval
+68c595d8d7ef0a1a1f03cd80,alert_txn_120249,cust_1001,txn_120249,2025-09-09T11:54:49.829Z,9077.69,Mumbai,Multiple transactions in short interval
+68c595d8d7ef0a1a1f03cd8e,alert_txn_891486,cust_1008,txn_891486,2025-09-09T05:48:12.829Z,3300.97,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c595d9d7ef0a1a1f03cd95,alert_txn_247246,cust_1017,txn_247246,2025-09-10T12:11:06.829Z,1186.86,Mumbai,Multiple transactions in short interval
+68c595d9d7ef0a1a1f03cd9c,alert_txn_189873,cust_1015,txn_189873,2025-09-12T10:20:25.829Z,22858,Mumbai,High amount (₹22858)
+68c595d9d7ef0a1a1f03cda6,alert_txn_722048,cust_1016,txn_722048,2025-09-09T13:50:27.829Z,3103.81,Kolkata,Multiple transactions in short interval
+68c595d9d7ef0a1a1f03cda8,alert_txn_312992,cust_1003,txn_312992,2025-09-11T02:09:28.829Z,23246,Kolkata,High amount (₹23246)
+68c595dad7ef0a1a1f03cdb0,alert_txn_908601,cust_1019,txn_908601,2025-09-10T20:18:37.829Z,4177.91,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c595dad7ef0a1a1f03cdb2,alert_txn_130568,cust_1011,txn_130568,2025-09-12T00:23:55.829Z,8073.33,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c595dad7ef0a1a1f03cdb5,alert_txn_418139,cust_1008,txn_418139,2025-09-12T04:47:08.829Z,8975.54,Chennai,Multiple transactions in short interval
+68c595dad7ef0a1a1f03cdbd,alert_txn_578197,cust_1015,txn_578197,2025-09-13T06:10:38.830Z,8594.82,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c595dad7ef0a1a1f03cdbf,alert_txn_416815,cust_1014,txn_416815,2025-09-12T16:21:24.830Z,1803.49,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c595dad7ef0a1a1f03cdc1,alert_txn_517272,cust_1013,txn_517272,2025-09-11T21:52:57.830Z,20361,Chennai,High amount (₹20361)
+68c595dbd7ef0a1a1f03cdc3,alert_txn_970219,cust_1020,txn_970219,2025-09-09T08:27:36.830Z,29340.93,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c595dbd7ef0a1a1f03cdc5,alert_txn_397275,cust_1005,txn_397275,2025-09-12T16:19:45.830Z,7060.66,Bangalore,Multiple transactions in short interval
+68c595dbd7ef0a1a1f03cdcc,alert_txn_760490,cust_1005,txn_760490,2025-09-11T05:47:06.830Z,1578.88,Bangalore,Multiple transactions in short interval
+68c595dbd7ef0a1a1f03cdd0,alert_txn_509019,cust_1004,txn_509019,2025-09-10T23:44:17.830Z,24658,Kolkata,High amount (₹24658)
+68c595dbd7ef0a1a1f03cdd5,alert_txn_807028,cust_1020,txn_807028,2025-09-12T15:57:00.830Z,6989.1,Chennai,Multiple transactions in short interval
+68c595dcd7ef0a1a1f03cddc,alert_txn_747200,cust_1015,txn_747200,2025-09-11T02:58:09.830Z,9087.9,Mumbai,Multiple transactions in short interval
+68c595dcd7ef0a1a1f03cdde,alert_txn_768523,cust_1014,txn_768523,2025-09-12T01:26:30.830Z,826.47,Mumbai,Multiple transactions in short interval
+68c595dcd7ef0a1a1f03cde4,alert_txn_601549,cust_1002,txn_601549,2025-09-11T04:54:10.830Z,20180,Kolkata,High amount (₹20180)
+68c595dcd7ef0a1a1f03cde7,alert_txn_676143,cust_1013,txn_676143,2025-09-10T23:56:33.830Z,7168.56,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c595dcd7ef0a1a1f03cdea,alert_txn_142669,cust_1005,txn_142669,2025-09-11T15:33:39.830Z,7451.91,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c595ddd7ef0a1a1f03cdf0,alert_txn_816642,cust_1015,txn_816642,2025-09-09T20:28:46.830Z,22880.35,Delhi,Multiple transactions in short interval
+68c595ddd7ef0a1a1f03cdf2,alert_txn_757245,cust_1013,txn_757245,2025-09-11T01:51:00.830Z,8562.51,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c595ddd7ef0a1a1f03cdf4,alert_txn_153801,cust_1003,txn_153801,2025-09-09T22:43:51.830Z,8967.54,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c595ddd7ef0a1a1f03cdf9,alert_txn_302056,cust_1001,txn_302056,2025-09-13T08:48:51.830Z,21490,Delhi,High amount (₹21490)
+68c595ddd7ef0a1a1f03cdfc,alert_txn_109219,cust_1014,txn_109219,2025-09-09T09:28:27.830Z,6686.17,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c595ddd7ef0a1a1f03cdfe,alert_txn_703021,cust_1001,txn_703021,2025-09-10T10:22:44.830Z,20487,Mumbai,High amount (₹20487)
+68c595ded7ef0a1a1f03ce05,alert_txn_507057,cust_1003,txn_507057,2025-09-12T15:30:08.830Z,24478,Delhi,High amount (₹24478)
+68c595ded7ef0a1a1f03ce0b,alert_txn_901801,cust_1012,txn_901801,2025-09-11T16:36:05.830Z,7910.19,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c595ded7ef0a1a1f03ce0d,alert_txn_600612,cust_1009,txn_600612,2025-09-12T20:32:01.830Z,2827.94,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c595ded7ef0a1a1f03ce10,alert_txn_521204,cust_1012,txn_521204,2025-09-12T01:35:30.831Z,22414,Bangalore,High amount (₹22414)
+68c595ded7ef0a1a1f03ce15,alert_txn_624996,cust_1016,txn_624996,2025-09-09T08:50:46.831Z,21087,Delhi,High amount (₹21087)
+68c595ded7ef0a1a1f03ce17,alert_txn_870701,cust_1006,txn_870701,2025-09-11T15:15:33.831Z,21745,Bangalore,High amount (₹21745)
+68c595ded7ef0a1a1f03ce19,alert_txn_449968,cust_1007,txn_449968,2025-09-12T20:23:28.831Z,6752.57,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c595dfd7ef0a1a1f03ce1d,alert_txn_791988,cust_1009,txn_791988,2025-09-10T02:23:14.831Z,3072.29,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c595dfd7ef0a1a1f03ce1f,alert_txn_861921,cust_1000,txn_861921,2025-09-09T22:22:04.831Z,22889,Mumbai,High amount (₹22889)
+68c595dfd7ef0a1a1f03ce23,alert_txn_792433,cust_1005,txn_792433,2025-09-11T00:53:47.831Z,24404,Bangalore,High amount (₹24404)
+68c595dfd7ef0a1a1f03ce25,alert_txn_673612,cust_1016,txn_673612,2025-09-10T16:07:58.831Z,7851.22,Kolkata,Multiple transactions in short interval
+68c595dfd7ef0a1a1f03ce27,alert_txn_699684,cust_1005,txn_699684,2025-09-12T22:44:34.831Z,3179.95,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c595dfd7ef0a1a1f03ce29,alert_txn_176237,cust_1001,txn_176237,2025-09-11T11:34:14.831Z,20726.22,Chennai,High amount (₹20726.22)
+68c595dfd7ef0a1a1f03ce2c,alert_txn_598128,cust_1006,txn_598128,2025-09-10T10:07:59.831Z,2475.92,Kolkata,Multiple transactions in short interval
+68c595e0d7ef0a1a1f03ce35,alert_txn_435885,cust_1014,txn_435885,2025-09-12T05:32:04.831Z,24411,Kolkata,High amount (₹24411)
+68c595e0d7ef0a1a1f03ce39,alert_txn_888350,cust_1015,txn_888350,2025-09-12T05:38:13.831Z,7767.95,Chennai,Multiple transactions in short interval
+68c595e0d7ef0a1a1f03ce3c,alert_txn_643007,cust_1009,txn_643007,2025-09-13T01:31:38.831Z,29768.85,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c595e0d7ef0a1a1f03ce40,alert_txn_370245,cust_1016,txn_370245,2025-09-13T02:23:07.831Z,2826.18,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c595e0d7ef0a1a1f03ce42,alert_txn_499356,cust_1005,txn_499356,2025-09-08T19:42:50.831Z,24565,Kolkata,High amount (₹24565)
+68c595e0d7ef0a1a1f03ce44,alert_txn_312469,cust_1016,txn_312469,2025-09-10T16:09:44.831Z,29612.79,Mumbai,Multiple transactions in short interval
+68c595e0d7ef0a1a1f03ce46,alert_txn_502610,cust_1000,txn_502610,2025-09-09T13:13:39.831Z,4736.14,Mumbai,Multiple transactions in short interval
+68c595e1d7ef0a1a1f03ce4a,alert_txn_627023,cust_1005,txn_627023,2025-09-11T17:33:10.831Z,26007.13,Chennai,Multiple transactions in short interval
+68c595e1d7ef0a1a1f03ce4c,alert_txn_370733,cust_1014,txn_370733,2025-09-12T19:50:29.831Z,5617.15,Chennai,Multiple transactions in short interval
+68c595e1d7ef0a1a1f03ce51,alert_txn_590106,cust_1018,txn_590106,2025-09-10T19:10:21.831Z,20554,Mumbai,High amount (₹20554)
+68c595e1d7ef0a1a1f03ce58,alert_txn_560878,cust_1015,txn_560878,2025-09-13T05:52:03.831Z,2514.22,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c595e1d7ef0a1a1f03ce5b,alert_txn_121647,cust_1000,txn_121647,2025-09-10T12:00:59.831Z,5704.97,Kolkata,Multiple transactions in short interval
+68c595e1d7ef0a1a1f03ce5d,alert_txn_823123,cust_1015,txn_823123,2025-09-12T21:04:35.831Z,2486.26,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c595e2d7ef0a1a1f03ce61,alert_txn_505686,cust_1014,txn_505686,2025-09-10T17:48:38.831Z,2681.68,Bangalore,Multiple transactions in short interval
+68c595e2d7ef0a1a1f03ce63,alert_txn_694526,cust_1004,txn_694526,2025-09-11T22:15:25.831Z,29881.6,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c595e2d7ef0a1a1f03ce65,alert_txn_573632,cust_1009,txn_573632,2025-09-11T08:00:56.831Z,886.35,Mumbai,Multiple transactions in short interval
+68c595e2d7ef0a1a1f03ce68,alert_txn_340799,cust_1018,txn_340799,2025-09-11T14:06:29.831Z,24286,Chennai,High amount (₹24286)
+68c595e2d7ef0a1a1f03ce6b,alert_txn_797644,cust_1001,txn_797644,2025-09-12T08:37:30.831Z,22897,Chennai,High amount (₹22897)
+68c595e2d7ef0a1a1f03ce6d,alert_txn_115047,cust_1013,txn_115047,2025-09-10T20:10:31.831Z,6618.91,Kolkata,Multiple transactions in short interval
+68c595e2d7ef0a1a1f03ce70,alert_txn_360248,cust_1009,txn_360248,2025-09-11T09:35:26.832Z,8620.82,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c595e2d7ef0a1a1f03ce73,alert_txn_196024,cust_1015,txn_196024,2025-09-09T16:22:15.832Z,530.51,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c595e3d7ef0a1a1f03ce75,alert_txn_763066,cust_1004,txn_763066,2025-09-11T03:10:15.832Z,664.4,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c595e3d7ef0a1a1f03ce78,alert_txn_271772,cust_1013,txn_271772,2025-09-09T23:48:41.832Z,24732,Bangalore,High amount (₹24732)
+68c595e3d7ef0a1a1f03ce81,alert_txn_270910,cust_1012,txn_270910,2025-09-11T12:27:49.832Z,2389.35,Bangalore,Multiple transactions in short interval
+68c595e3d7ef0a1a1f03ce84,alert_txn_655803,cust_1005,txn_655803,2025-09-11T06:04:48.832Z,23876,Bangalore,High amount (₹23876)
+68c595e3d7ef0a1a1f03ce8a,alert_txn_666164,cust_1015,txn_666164,2025-09-10T18:48:30.832Z,7276.5,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c595e4d7ef0a1a1f03ce94,alert_txn_627823,cust_1018,txn_627823,2025-09-10T10:30:48.832Z,24185,Kolkata,High amount (₹24185)
+68c595e4d7ef0a1a1f03ce9c,alert_txn_764722,cust_1006,txn_764722,2025-09-08T18:11:01.832Z,8169.12,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c595e4d7ef0a1a1f03ce9e,alert_txn_293284,cust_1009,txn_293284,2025-09-10T10:56:30.832Z,26912.09,Delhi,High amount (₹26912.09)
+68c595e5d7ef0a1a1f03cea5,alert_txn_859985,cust_1008,txn_859985,2025-09-11T10:14:04.832Z,3303.26,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c595e5d7ef0a1a1f03ceab,alert_txn_767367,cust_1009,txn_767367,2025-09-09T08:14:33.832Z,2556.44,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c595e5d7ef0a1a1f03ceb0,alert_txn_922688,cust_1002,txn_922688,2025-09-10T01:12:39.832Z,8288.84,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c595e5d7ef0a1a1f03ceb2,alert_txn_577306,cust_1015,txn_577306,2025-09-10T17:07:57.832Z,742.62,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c595e5d7ef0a1a1f03ceb4,alert_txn_333857,cust_1004,txn_333857,2025-09-10T19:09:02.832Z,20286,Kolkata,High amount (₹20286)
+68c595e5d7ef0a1a1f03ceb6,alert_txn_551634,cust_1011,txn_551634,2025-09-11T02:56:14.832Z,24843,Mumbai,High amount (₹24843)
+68c595e5d7ef0a1a1f03ceb9,alert_txn_432717,cust_1017,txn_432717,2025-09-10T18:06:04.832Z,9375.6,Kolkata,Multiple transactions in short interval
+68c595e6d7ef0a1a1f03cebc,alert_txn_961062,cust_1006,txn_961062,2025-09-10T06:48:40.832Z,20508,Mumbai,High amount (₹20508)
+68c595e6d7ef0a1a1f03cec6,alert_txn_761970,cust_1008,txn_761970,2025-09-13T00:23:52.832Z,5923.63,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c595e6d7ef0a1a1f03cecb,alert_txn_564839,cust_1002,txn_564839,2025-09-11T07:45:53.833Z,6418.78,Chennai,Multiple transactions in short interval
+68c595e6d7ef0a1a1f03cecd,alert_txn_892320,cust_1016,txn_892320,2025-09-12T16:48:58.833Z,24427,Bangalore,High amount (₹24427)
+68c595e7d7ef0a1a1f03ced2,alert_txn_533952,cust_1014,txn_533952,2025-09-12T23:31:25.833Z,24621,Delhi,High amount (₹24621)
+68c595e7d7ef0a1a1f03ced6,alert_txn_876650,cust_1016,txn_876650,2025-09-12T04:35:08.833Z,23106,Chennai,High amount (₹23106)
+68c595e7d7ef0a1a1f03ced9,alert_txn_547741,cust_1004,txn_547741,2025-09-10T05:16:25.833Z,3086.62,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c595e7d7ef0a1a1f03cedd,alert_txn_663557,cust_1014,txn_663557,2025-09-10T09:45:10.833Z,21668,Bangalore,High amount (₹21668)
+68c595e7d7ef0a1a1f03cedf,alert_txn_780587,cust_1016,txn_780587,2025-09-12T10:48:37.833Z,21493,Kolkata,High amount (₹21493)
+68c595e7d7ef0a1a1f03cee3,alert_txn_918198,cust_1015,txn_918198,2025-09-11T02:36:54.833Z,7693.02,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c595e7d7ef0a1a1f03cee8,alert_txn_651583,cust_1020,txn_651583,2025-09-13T12:20:54.833Z,1223.67,Chennai,Multiple transactions in short interval
+68c595e8d7ef0a1a1f03ceeb,alert_txn_972719,cust_1009,txn_972719,2025-09-08T17:47:22.833Z,6020.16,Delhi,Multiple transactions in short interval
+68c595e8d7ef0a1a1f03cef1,alert_txn_694159,cust_1014,txn_694159,2025-09-11T21:57:25.833Z,8124.28,Mumbai,Multiple transactions in short interval
+68c595e8d7ef0a1a1f03cef9,alert_txn_798748,cust_1010,txn_798748,2025-09-12T19:46:25.833Z,5275.55,Chennai,Multiple transactions in short interval
+68c595e8d7ef0a1a1f03cefd,alert_txn_401566,cust_1019,txn_401566,2025-09-12T23:27:19.833Z,6516.3,Chennai,Multiple transactions in short interval
+68c595e9d7ef0a1a1f03ceff,alert_txn_600113,cust_1008,txn_600113,2025-09-11T14:29:00.833Z,5698.03,Kolkata,Multiple transactions in short interval
+68c595e9d7ef0a1a1f03cf04,alert_txn_103293,cust_1013,txn_103293,2025-09-09T10:41:17.833Z,6371.6,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c595e9d7ef0a1a1f03cf07,alert_txn_809141,cust_1005,txn_809141,2025-09-12T03:19:28.833Z,1393.75,Mumbai,Location mismatch (ATM: Mumbai) or Invalid Location
+68c595e9d7ef0a1a1f03cf09,alert_txn_343926,cust_1002,txn_343926,2025-09-09T19:07:02.833Z,20948,Chennai,High amount (₹20948)
+68c595e9d7ef0a1a1f03cf0c,alert_txn_893514,cust_1004,txn_893514,2025-09-09T10:00:14.833Z,8804.34,Chennai,Multiple transactions in short interval
+68c595e9d7ef0a1a1f03cf0f,alert_txn_568726,cust_1013,txn_568726,2025-09-11T00:11:20.833Z,6367.45,Mumbai,Multiple transactions in short interval
+68c595e9d7ef0a1a1f03cf11,alert_txn_409663,cust_1009,txn_409663,2025-09-10T04:24:34.833Z,4750.15,Chennai,Multiple transactions in short interval
+68c595ead7ef0a1a1f03cf13,alert_txn_524688,cust_1004,txn_524688,2025-09-12T08:36:49.833Z,23290.72,Delhi,Multiple transactions in short interval
+68c595ead7ef0a1a1f03cf15,alert_txn_410886,cust_1006,txn_410886,2025-09-09T09:24:27.833Z,3601.74,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c595ead7ef0a1a1f03cf1a,alert_txn_762560,cust_1008,txn_762560,2025-09-12T04:09:16.833Z,20943,Kolkata,High amount (₹20943)
+68c595ead7ef0a1a1f03cf1d,alert_txn_343205,cust_1019,txn_343205,2025-09-09T14:05:21.833Z,24435,Bangalore,High amount (₹24435)
+68c595ebd7ef0a1a1f03cf2f,alert_txn_972526,cust_1001,txn_972526,2025-09-12T23:28:13.834Z,3971.08,Chennai,Multiple transactions in short interval
+68c595ebd7ef0a1a1f03cf32,alert_txn_287513,cust_1012,txn_287513,2025-09-10T01:02:35.834Z,20641.92,Kolkata,Location mismatch (ATM: Kolkata) or Invalid Location
+68c595ebd7ef0a1a1f03cf35,alert_txn_671964,cust_1005,txn_671964,2025-09-10T16:16:16.834Z,6805.84,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c595ebd7ef0a1a1f03cf38,alert_txn_173335,cust_1012,txn_173335,2025-09-11T13:29:38.834Z,27399.16,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c595ebd7ef0a1a1f03cf3f,alert_txn_923738,cust_1009,txn_923738,2025-09-09T03:18:39.834Z,8767.68,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c595ecd7ef0a1a1f03cf42,alert_txn_608200,cust_1004,txn_608200,2025-09-09T03:17:57.834Z,2810.72,Delhi,Multiple transactions in short interval
+68c595ecd7ef0a1a1f03cf46,alert_txn_596695,cust_1014,txn_596695,2025-09-09T10:45:07.834Z,3926.98,Kolkata,Multiple transactions in short interval
+68c595ecd7ef0a1a1f03cf4b,alert_txn_702785,cust_1007,txn_702785,2025-09-11T07:12:41.834Z,9440.46,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c595ecd7ef0a1a1f03cf4d,alert_txn_518341,cust_1008,txn_518341,2025-09-09T09:54:12.834Z,1846.62,Chennai,Multiple transactions in short interval
+68c595ecd7ef0a1a1f03cf50,alert_txn_954253,cust_1009,txn_954253,2025-09-12T17:34:44.834Z,6269.15,Chennai,Location mismatch (ATM: Chennai) or Invalid Location
+68c595ecd7ef0a1a1f03cf52,alert_txn_391043,cust_1019,txn_391043,2025-09-13T01:13:20.834Z,8170.99,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c595ecd7ef0a1a1f03cf54,alert_txn_485287,cust_1003,txn_485287,2025-09-11T10:48:06.834Z,27215.54,Bangalore,Multiple transactions in short interval
+68c595edd7ef0a1a1f03cf57,alert_txn_831693,cust_1010,txn_831693,2025-09-10T14:26:13.834Z,24619.04,Kolkata,Multiple transactions in short interval
+68c595edd7ef0a1a1f03cf59,alert_txn_471902,cust_1010,txn_471902,2025-09-10T17:03:50.834Z,7604.06,Bangalore,Location mismatch (ATM: Bangalore) or Invalid Location
+68c595edd7ef0a1a1f03cf5b,alert_txn_827260,cust_1003,txn_827260,2025-09-13T02:22:28.834Z,23330,Chennai,High amount (₹23330)
+68c595edd7ef0a1a1f03cf5f,alert_txn_412542,cust_1009,txn_412542,2025-09-11T11:30:06.834Z,6296.37,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c595edd7ef0a1a1f03cf62,alert_txn_600428,cust_1016,txn_600428,2025-09-09T06:20:50.834Z,8891,Delhi,Location mismatch (ATM: Delhi) or Invalid Location
+68c595edd7ef0a1a1f03cf64,alert_txn_462589,cust_1006,txn_462589,2025-09-10T10:23:08.834Z,3969.02,Bangalore,Multiple transactions in short interval
